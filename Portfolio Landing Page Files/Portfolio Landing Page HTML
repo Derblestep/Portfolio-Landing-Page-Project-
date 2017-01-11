@@ -1,0 +1,104 @@
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://s3.amazonaws.com/codecademy-content/projects/bootstrap.min.css">
+  <link rel='stylesheet' href='PortfolioLandingPageMain.css' />
+</head>
+
+<body>
+
+  <div class="header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h1>Zakary Actouka</h1>
+        </div>
+        <div class="pull-right">
+          <ul class="nav nav-pills">
+            <li class="active"><a href="#">All</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Blog</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <a class="thumbnail" href="#">
+            <img src="https://cdn.pixabay.com/photo/2014/10/21/18/22/full-moon-496873_960_720.jpg">
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a class="thumbnail" href="#">
+            <img src="https://cdn.pixabay.com/photo/2013/01/05/21/06/star-clusters-74052_960_720.jpg">
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a class="thumbnail" href="#">
+            <img src="https://cdn.pixabay.com/photo/2015/06/07/21/35/rho-ophiuchi-800848__340.jpg">
+          </a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <a class="thumbnail" href="#">
+            <img src="https://cdn.pixabay.com/photo/2015/08/29/07/01/jellyfish-nebula-912776_960_720.jpg">
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a class="thumbnail" href="#">
+            <img src="https://cdn.pixabay.com/photo/2011/12/15/10/22/helix-nebula-11155_960_720.jpg">
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a class="thumbnail" href="#">
+            <img src="https://cdn.pixabay.com/photo/2015/04/20/13/16/cosmic-731195_960_720.jpg">
+          </a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <a class="thumbnail" href="#">
+            <img src="https://cdn.pixabay.com/photo/2015/04/23/04/22/orion-nebula-735643__340.jpg">
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a class="thumbnail" href="#">
+            <img src="https://cdn.pixabay.com/photo/2015/08/18/14/31/milky-way-894237__340.jpg">
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a class="thumbnail" href="#">
+            <img src="https://cdn.pixabay.com/photo/2015/08/29/08/01/flame-nebula-912825__340.jpg">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <ul>
+            <li>email</li>
+            <li>linkedin</li>
+            <li>twitter</li>
+            <li>blog</li>
+          </ul>
+        </div>
+        <div class="pull-right">
+          <p>© 2017</p>
+        </div>
+      </div>
+    </div>
+
+</body>
+
+</html>
